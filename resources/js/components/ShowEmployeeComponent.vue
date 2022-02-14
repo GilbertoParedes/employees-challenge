@@ -137,11 +137,6 @@
       </v-card>
     </v-row>
         </v-container>
-
-        <h1>show employee</h1>
-        <code>
-            {{employee}}
-        </code>
     </v-app>
 </template>
 <script>

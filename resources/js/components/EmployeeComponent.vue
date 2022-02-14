@@ -351,11 +351,11 @@ export default {
             ],
             editedIndex: -1,
             employee: {
-                name: 'Gilberto',
-                email: 'gilberto@gmail.com',
-                job_position: 'position',
+                name: '',
+                email: '',
+                job_position: '',
                 birth_date: '',
-                address: 'mexico',
+                address: '',
                 skills: []
             },
             employee_create: false,
